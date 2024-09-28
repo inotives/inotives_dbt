@@ -1,0 +1,55 @@
+# seeds/seeds.yml
+version: 2
+
+seeds:
+  - name: country_codes
+    description: "List of country codes with additional country details"
+    columns:
+      - name: country_name_en
+        description: "Name of the country in English"
+        tests:
+          - not_null
+          - unique
+      - name: country_code_cn
+        description: "Name of the country in Chinese"
+      - name: dial_code
+        description: "Dial code for the country"
+      - name: country_code_num
+        description: "Numeric country code"
+        tests:
+          - not_null
+          - unique
+      - name: country_code_alpha3
+        description: "Three-letter country code (ISO 3166-1 alpha-3)"
+        tests:
+          - not_null
+          - unique
+      - name: country_code_alpha2
+        description: "Two-letter country code (ISO 3166-1 alpha-2)"
+        tests:
+          - not_null
+          - unique
+      - name: region_code
+        description: "UN M49 region code"
+      - name: region_name
+        description: "Name of the region"
+      - name: country_capital
+        description: "Capital city of the country"
+      - name: currency_code
+        description: "Currency code for the country (ISO 4217)"
+
+  - name: crypto_tokens
+    description: "List of popular cryptocurrencies with their symbols and types"
+    columns:
+      - name: crypto_name
+        description: "Name of the cryptocurrency"
+        tests:
+          - not_null
+          - unique
+      - name: crypto_symbol
+        description: "Ticker symbol for the cryptocurrency"
+        tests:
+          - not_null
+          - unique
+      - name: crypto_type
+        description: "Type of cryptocurrency (e.g., coin, token)"

@@ -1,0 +1,250 @@
+country_name_en,country_code_cn,dial_code,country_code_num,country_code_alpha3,country_code_alpha2,region_code,region_name,country_capital,currency_code
+Afghanistan,阿富汗,93,4,AFG,AF,142,Asia,Kabul,AFN
+Åland Islands,奥兰群岛,358,248,ALA,AX,150,Europe,Mariehamn,EUR
+Albania,阿尔巴尼亚,355,8,ALB,AL,150,Europe,Tirana,ALL
+Algeria,阿尔及利亚,213,12,DZA,DZ,2,Africa,Algiers,DZD
+American Samoa,美属萨摩亚,1-684,16,ASM,AS,9,Oceania,Pago Pago,USD
+Andorra,安道尔,376,20,AND,AD,150,Europe,Andorra la Vella,EUR
+Angola,安哥拉,244,24,AGO,AO,2,Africa,Luanda,AOA
+Anguilla,安圭拉,1-264,660,AIA,AI,19,Americas,The Valley,XCD
+Antarctica,南极洲,672,10,ATA,AQ,,,,
+Antigua and Barbuda,安提瓜和巴布达,1-268,28,ATG,AG,19,Americas,St. John's,XCD
+Argentina,阿根廷,54,32,ARG,AR,19,Americas,Buenos Aires,ARS
+Armenia,亚美尼亚,374,51,ARM,AM,142,Asia,Yerevan,AMD
+Aruba,阿鲁巴,297,533,ABW,AW,19,Americas,Oranjestad,AWG
+Australia,澳大利亚,61,36,AUS,AU,9,Oceania,Canberra,AUD
+Austria,奥地利,43,40,AUT,AT,150,Europe,Vienna,EUR
+Azerbaijan,阿塞拜疆,994,31,AZE,AZ,142,Asia,Baku,AZN
+Bahamas,巴哈马,1-242,44,BHS,BS,19,Americas,Nassau,BSD
+Bahrain,巴林,973,48,BHR,BH,142,Asia,Manama,BHD
+Bangladesh,孟加拉国,880,50,BGD,BD,142,Asia,Dhaka,BDT
+Barbados,巴巴多斯,1-246,52,BRB,BB,19,Americas,Bridgetown,BBD
+Belarus,白俄罗斯,375,112,BLR,BY,150,Europe,Minsk,BYN
+Belgium,比利时,32,56,BEL,BE,150,Europe,Brussels,EUR
+Belize,伯利兹,501,84,BLZ,BZ,19,Americas,Belmopan,BZD
+Benin,贝宁,229,204,BEN,BJ,2,Africa,Porto-Novo,XOF
+Bermuda,百慕大,1-441,60,BMU,BM,19,Americas,Hamilton,BMD
+Bhutan,不丹,975,64,BTN,BT,142,Asia,Thimphu,"INR,BTN"
+Bolivia (Plurinational State of),多民族玻利维亚国,591,68,BOL,BO,19,Americas,Sucre,BOB
+"Bonaire, Sint Eustatius and Saba",博纳尔，圣俄斯塔休斯和萨巴,599,535,BES,BQ,19,Americas,,USD
+Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,387,70,BIH,BA,150,Europe,Sarajevo,BAM
+Botswana,博茨瓦纳,267,72,BWA,BW,2,Africa,Gaborone,BWP
+Bouvet Island,布维岛,47,74,BVT,BV,19,Americas,,NOK
+Brazil,巴西,55,76,BRA,BR,19,Americas,Brasilia,BRL
+British Indian Ocean Territory,英属印度洋领土,246,86,IOT,IO,2,Africa,Diego Garcia,USD
+British Virgin Islands,英属维尔京群岛,1-284,92,VGB,VG,19,Americas,Road Town,USD
+Brunei Darussalam,文莱达鲁萨兰国,673,96,BRN,BN,142,Asia,Bandar Seri Begawan,BND
+Bulgaria,保加利亚,359,100,BGR,BG,150,Europe,Sofia,BGN
+Burkina Faso,布基纳法索,226,854,BFA,BF,2,Africa,Ouagadougou,XOF
+Burundi,布隆迪,257,108,BDI,BI,2,Africa,Gitega,BIF
+Cabo Verde,佛得角,238,132,CPV,CV,2,Africa,Praia,CVE
+Cambodia,柬埔寨,855,116,KHM,KH,142,Asia,Phnom Penh,KHR
+Cameroon,喀麦隆,237,120,CMR,CM,2,Africa,Yaounde,XAF
+Canada,加拿大,1,124,CAN,CA,19,Americas,Ottawa,CAD
+Cayman Islands,开曼群岛,1-345,136,CYM,KY,19,Americas,George Town,KYD
+Central African Republic,中非共和国,236,140,CAF,CF,2,Africa,Bangui,XAF
+Chad,乍得,235,148,TCD,TD,2,Africa,N'Djamena,XAF
+Chile,智利,56,152,CHL,CL,19,Americas,Santiago,CLP
+China,中国,86,156,CHN,CN,142,Asia,Beijing,CNY
+"China, Hong Kong Special Administrative Region",中国香港特别行政区,852,344,HKG,HK,142,Asia,Hong Kong,HKD
+"China, Macao Special Administrative Region",中国澳门特别行政区,853,446,MAC,MO,142,Asia,Macao,MOP
+Christmas Island,圣诞岛,61,162,CXR,CX,9,Oceania,Flying Fish Cove,AUD
+Cocos (Keeling) Islands,科科斯（基林）群岛,61,166,CCK,CC,9,Oceania,West Island,AUD
+Colombia,哥伦比亚,57,170,COL,CO,19,Americas,Bogota,COP
+Comoros,科摩罗,269,174,COM,KM,2,Africa,Moroni,KMF
+Congo,刚果,242,178,COG,CG,2,Africa,Brazzaville,XAF
+Cook Islands,库克群岛,682,184,COK,CK,9,Oceania,Avarua,NZD
+Costa Rica,哥斯达黎加,506,188,CRI,CR,19,Americas,San Jose,CRC
+Croatia,克罗地亚,385,191,HRV,HR,150,Europe,Zagreb,EUR
+Cuba,古巴,53,192,CUB,CU,19,Americas,Havana,"CUP,CUC"
+Curaçao,库拉索,599,531,CUW,CW,19,Americas,Willemstad,ANG
+Cyprus,塞浦路斯,357,196,CYP,CY,142,Asia,Nicosia,EUR
+Czechia,捷克,420,203,CZE,CZ,150,Europe,Prague,CZK
+Democratic People's Republic of Korea,朝鲜民主主义人民共和国,850,408,PRK,KP,142,Asia,Pyongyang,KPW
+Democratic Republic of the Congo,刚果民主共和国,243,180,COD,CD,2,Africa,Kinshasa,CDF
+Denmark,丹麦,45,208,DNK,DK,150,Europe,Copenhagen,DKK
+Djibouti,吉布提,253,262,DJI,DJ,2,Africa,Djibouti,DJF
+Dominica,多米尼克,1-767,212,DMA,DM,19,Americas,Roseau,XCD
+Dominican Republic,多米尼加,1-8091-8291-849,214,DOM,DO,19,Americas,Santo Domingo,DOP
+Ecuador,厄瓜多尔,593,218,ECU,EC,19,Americas,Quito,USD
+Egypt,埃及,20,818,EGY,EG,2,Africa,Cairo,EGP
+El Salvador,萨尔瓦多,503,222,SLV,SV,19,Americas,San Salvador,"SVC,USD"
+Equatorial Guinea,赤道几内亚,240,226,GNQ,GQ,2,Africa,Malabo,XAF
+Eritrea,厄立特里亚,291,232,ERI,ER,2,Africa,Asmara,ERN
+Estonia,爱沙尼亚,372,233,EST,EE,150,Europe,Tallinn,EUR
+Eswatini,斯威士兰,268,748,SWZ,SZ,2,Africa,Mbabane,SZL
+Ethiopia,埃塞俄比亚,251,231,ETH,ET,2,Africa,Addis Ababa,ETB
+Falkland Islands,福克兰群岛（马尔维纳斯）,500,238,FLK,FK,19,Americas,Stanley,FKP
+Faroe Islands,法罗群岛,298,234,FRO,FO,150,Europe,Torshavn,DKK
+Fiji,斐济,679,242,FJI,FJ,9,Oceania,Suva,FJD
+Finland,芬兰,358,246,FIN,FI,150,Europe,Helsinki,EUR
+France,法国,33,250,FRA,FR,150,Europe,Paris,EUR
+French Guiana,法属圭亚那,594,254,GUF,GF,19,Americas,Cayenne,EUR
+French Polynesia,法属波利尼西亚,689,258,PYF,PF,9,Oceania,Papeete,XPF
+French Southern Territories,法属南方领地,262,260,ATF,TF,2,Africa,Port-aux-Francais,EUR
+Gabon,加蓬,241,266,GAB,GA,2,Africa,Libreville,XAF
+Gambia,冈比亚,220,270,GMB,GM,2,Africa,Banjul,GMD
+Georgia,格鲁吉亚,995,268,GEO,GE,142,Asia,Tbilisi,GEL
+Germany,德国,49,276,DEU,DE,150,Europe,Berlin,EUR
+Ghana,加纳,233,288,GHA,GH,2,Africa,Accra,GHS
+Gibraltar,直布罗陀,350,292,GIB,GI,150,Europe,Gibraltar,GIP
+Greece,希腊,30,300,GRC,GR,150,Europe,Athens,EUR
+Greenland,格陵兰,299,304,GRL,GL,19,Americas,Nuuk,DKK
+Grenada,格林纳达,1-473,308,GRD,GD,19,Americas,St. George's,XCD
+Guadeloupe,瓜德罗普,590,312,GLP,GP,19,Americas,Basse-Terre,EUR
+Guam,关岛,1-671,316,GUM,GU,9,Oceania,Hagatna,USD
+Guatemala,危地马拉,502,320,GTM,GT,19,Americas,Guatemala City,GTQ
+Guernsey,格恩西,44,831,GGY,GG,150,Europe,St Peter Port,GBP
+Guinea,几内亚,224,324,GIN,GN,2,Africa,Conakry,GNF
+Guinea-Bissau,几内亚比绍,245,624,GNB,GW,2,Africa,Bissau,XOF
+Guyana,圭亚那,592,328,GUY,GY,19,Americas,Georgetown,GYD
+Haiti,海地,509,332,HTI,HT,19,Americas,Port-au-Prince,"HTG,USD"
+Heard Island and McDonald Islands,赫德岛和麦克唐纳岛,672,334,HMD,HM,9,Oceania,,AUD
+Holy See,教廷,39-06,336,VAT,VA,150,Europe,Vatican City,EUR
+Honduras,洪都拉斯,504,340,HND,HN,19,Americas,Tegucigalpa,HNL
+Hungary,匈牙利,36,348,HUN,HU,150,Europe,Budapest,HUF
+Iceland,冰岛,354,352,ISL,IS,150,Europe,Reykjavik,ISK
+India,印度,91,356,IND,IN,142,Asia,New Delhi,INR
+Indonesia,印度尼西亚,62,360,IDN,ID,142,Asia,Jakarta,IDR
+Iran (Islamic Republic of),伊朗伊斯兰共和国,98,364,IRN,IR,142,Asia,Tehran,IRR
+Iraq,伊拉克,964,368,IRQ,IQ,142,Asia,Baghdad,IQD
+Ireland,爱尔兰,353,372,IRL,IE,150,Europe,Dublin,EUR
+Isle of Man,马恩岛,44,833,IMN,IM,150,Europe,Douglas,GBP
+Israel,以色列,972,376,ISR,IL,142,Asia,Jerusalem,ILS
+Italy,意大利,39,380,ITA,IT,150,Europe,Rome,EUR
+Ivory Coast,科特迪瓦,225,384,CIV,CI,2,Africa,Yamoussoukro,XOF
+Jamaica,牙买加,1-876,388,JAM,JM,19,Americas,Kingston,JMD
+Japan,日本,81,392,JPN,JP,142,Asia,Tokyo,JPY
+Jersey,泽西,44,832,JEY,JE,150,Europe,Saint Helier,GBP
+Jordan,约旦,962,400,JOR,JO,142,Asia,Amman,JOD
+Kazakhstan,哈萨克斯坦,7,398,KAZ,KZ,142,Asia,Nur-Sultan,KZT
+Kenya,肯尼亚,254,404,KEN,KE,2,Africa,Nairobi,KES
+Kiribati,基里巴斯,686,296,KIR,KI,9,Oceania,Tarawa,AUD
+Kuwait,科威特,965,414,KWT,KW,142,Asia,Kuwait City,KWD
+Kyrgyzstan,吉尔吉斯斯坦,996,417,KGZ,KG,142,Asia,Bishkek,KGS
+Lao People's Democratic Republic,老挝人民民主共和国,856,418,LAO,LA,142,Asia,Vientiane,LAK
+Latvia,拉脱维亚,371,428,LVA,LV,150,Europe,Riga,EUR
+Lebanon,黎巴嫩,961,422,LBN,LB,142,Asia,Beirut,LBP
+Lesotho,莱索托,266,426,LSO,LS,2,Africa,Maseru,"LSL,ZAR"
+Liberia,利比里亚,231,430,LBR,LR,2,Africa,Monrovia,LRD
+Libya,利比亚,218,434,LBY,LY,2,Africa,Tripoli,LYD
+Liechtenstein,列支敦士登,423,438,LIE,LI,150,Europe,Vaduz,CHF
+Lithuania,立陶宛,370,440,LTU,LT,150,Europe,Vilnius,EUR
+Luxembourg,卢森堡,352,442,LUX,LU,150,Europe,Luxembourg,EUR
+Madagascar,马达加斯加,261,450,MDG,MG,2,Africa,Antananarivo,MGA
+Malawi,马拉维,265,454,MWI,MW,2,Africa,Lilongwe,MWK
+Malaysia,马来西亚,60,458,MYS,MY,142,Asia,Kuala Lumpur,MYR
+Maldives,马尔代夫,960,462,MDV,MV,142,Asia,Male,MVR
+Mali,马里,223,466,MLI,ML,2,Africa,Bamako,XOF
+Malta,马耳他,356,470,MLT,MT,150,Europe,Valletta,EUR
+Marshall Islands,马绍尔群岛,692,584,MHL,MH,9,Oceania,Majuro,USD
+Martinique,马提尼克,596,474,MTQ,MQ,19,Americas,Fort-de-France,EUR
+Mauritania,毛里塔尼亚,222,478,MRT,MR,2,Africa,Nouakchott,MRU
+Mauritius,毛里求斯,230,480,MUS,MU,2,Africa,Port Louis,MUR
+Mayotte,马约特,262,175,MYT,YT,2,Africa,Mamoudzou,EUR
+Mexico,墨西哥,52,484,MEX,MX,19,Americas,Mexico City,MXN
+Micronesia (Federated States of),密克罗尼西亚联邦,691,583,FSM,FM,9,Oceania,Palikir,USD
+Monaco,摩纳哥,377,492,MCO,MC,150,Europe,Monaco,EUR
+Mongolia,蒙古,976,496,MNG,MN,142,Asia,Ulaanbaatar,MNT
+Montenegro,黑山,382,499,MNE,ME,150,Europe,Podgorica,EUR
+Montserrat,蒙特塞拉特,1-664,500,MSR,MS,19,Americas,Plymouth,XCD
+Morocco,摩洛哥,212,504,MAR,MA,2,Africa,Rabat,MAD
+Mozambique,莫桑比克,258,508,MOZ,MZ,2,Africa,Maputo,MZN
+Myanmar,缅甸,95,104,MMR,MM,142,Asia,Nay Pyi Taw,MMK
+Namibia,纳米比亚,264,516,NAM,,2,Africa,Windhoek,"NAD,ZAR"
+Nauru,瑙鲁,674,520,NRU,NR,9,Oceania,Yaren,AUD
+Nepal,尼泊尔,977,524,NPL,NP,142,Asia,Kathmandu,NPR
+Netherlands,荷兰王国,31,528,NLD,NL,150,Europe,Amsterdam,EUR
+New Caledonia,新喀里多尼亚,687,540,NCL,NC,9,Oceania,Noumea,XPF
+New Zealand,新西兰,64,554,NZL,NZ,9,Oceania,Wellington,NZD
+Nicaragua,尼加拉瓜,505,558,NIC,NI,19,Americas,Managua,NIO
+Niger,尼日尔,227,562,NER,NE,2,Africa,Niamey,XOF
+Nigeria,尼日利亚,234,566,NGA,NG,2,Africa,Abuja,NGN
+Niue,纽埃,683,570,NIU,NU,9,Oceania,Alofi,NZD
+Norfolk Island,诺福克岛,672,574,NFK,NF,9,Oceania,Kingston,AUD
+North Macedonia,北马其顿,389,807,MKD,MK,150,Europe,Skopje,MKD
+Northern Mariana Islands,北马里亚纳群岛,1-670,580,MNP,MP,9,Oceania,Saipan,USD
+Norway,挪威,47,578,NOR,NO,150,Europe,Oslo,NOK
+Oman,阿曼,968,512,OMN,OM,142,Asia,Muscat,OMR
+Pakistan,巴基斯坦,92,586,PAK,PK,142,Asia,Islamabad,PKR
+Palau,帕劳,680,585,PLW,PW,9,Oceania,Melekeok,USD
+Panama,巴拿马,507,591,PAN,PA,19,Americas,Panama City,"PAB,USD"
+Papua New Guinea,巴布亚新几内亚,675,598,PNG,PG,9,Oceania,Port Moresby,PGK
+Paraguay,巴拉圭,595,600,PRY,PY,19,Americas,Asuncion,PYG
+Peru,秘鲁,51,604,PER,PE,19,Americas,Lima,PEN
+Philippines,菲律宾,63,608,PHL,PH,142,Asia,Manila,PHP
+Pitcairn,皮特凯恩,870,612,PCN,PN,9,Oceania,Adamstown,NZD
+Poland,波兰,48,616,POL,PL,150,Europe,Warsaw,PLN
+Portugal,葡萄牙,351,620,PRT,PT,150,Europe,Lisbon,EUR
+Puerto Rico,波多黎各,1,630,PRI,PR,19,Americas,San Juan,USD
+Qatar,卡塔尔,974,634,QAT,QA,142,Asia,Doha,QAR
+Republic of Korea,大韩民国,82,410,KOR,KR,142,Asia,Seoul,KRW
+Republic of Moldova,摩尔多瓦共和国,373,498,MDA,MD,150,Europe,Chisinau,MDL
+Réunion,留尼汪,262,638,REU,RE,2,Africa,Saint-Denis,EUR
+Romania,罗马尼亚,40,642,ROU,RO,150,Europe,Bucharest,RON
+Russian Federation,俄罗斯联邦,7,643,RUS,RU,150,Europe,Moscow,RUB
+Rwanda,卢旺达,250,646,RWA,RW,2,Africa,Kigali,RWF
+Saint Barthélemy,圣巴泰勒米,590,652,BLM,BL,19,Americas,Gustavia,EUR
+Saint Helena,圣赫勒拿,290 n,654,SHN,SH,2,Africa,Jamestown,SHP
+Saint Kitts and Nevis,圣基茨和尼维斯,1-869,659,KNA,KN,19,Americas,Basseterre,XCD
+Saint Lucia,圣卢西亚,1-758,662,LCA,LC,19,Americas,Castries,XCD
+Saint Martin (French Part),圣马丁（法属）,590,663,MAF,MF,19,Americas,Marigot,EUR
+Saint Pierre and Miquelon,圣皮埃尔和密克隆,508,666,SPM,PM,19,Americas,Saint-Pierre,EUR
+Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,1-784,670,VCT,VC,19,Americas,Kingstown,XCD
+Samoa,萨摩亚,685,882,WSM,WS,9,Oceania,Apia,WST
+San Marino,圣马力诺,378,674,SMR,SM,150,Europe,San Marino,EUR
+Sao Tome and Principe,圣多美和普林西比,239,678,STP,ST,2,Africa,Sao Tome,STN
+Saudi Arabia,沙特阿拉伯,966,682,SAU,SA,142,Asia,Riyadh,SAR
+Senegal,塞内加尔,221,686,SEN,SN,2,Africa,Dakar,XOF
+Serbia,塞尔维亚,381 p,688,SRB,RS,150,Europe,Belgrade,RSD
+Seychelles,塞舌尔,248,690,SYC,SC,2,Africa,Victoria,SCR
+Sierra Leone,塞拉利昂,232,694,SLE,SL,2,Africa,Freetown,SLE
+Singapore,新加坡,65,702,SGP,SG,142,Asia,Singapore,SGD
+Sint Maarten (Dutch part),圣马丁（荷属）,1-721,534,SXM,SX,19,Americas,Philipsburg,ANG
+Slovakia,斯洛伐克,421,703,SVK,SK,150,Europe,Bratislava,EUR
+Slovenia,斯洛文尼亚,386,705,SVN,SI,150,Europe,Ljubljana,EUR
+Solomon Islands,所罗门群岛,677,90,SLB,SB,9,Oceania,Honiara,SBD
+Somalia,索马里,252,706,SOM,SO,2,Africa,Mogadishu,SOS
+South Africa,南非,27,710,ZAF,ZA,2,Africa,Pretoria,ZAR
+South Georgia and the South Sandwich Islands,南乔治亚岛和南桑德韦奇岛,500,239,SGS,GS,19,Americas,Grytviken,
+South Sudan,南苏丹,211,728,SSD,SS,2,Africa,Juba,SSP
+Spain,西班牙,34,724,ESP,ES,150,Europe,Madrid,EUR
+Sri Lanka,斯里兰卡,94,144,LKA,LK,142,Asia,Colombo,LKR
+State of Palestine,巴勒斯坦国,970,275,PSE,PS,142,Asia,East Jerusalem,
+Sudan,苏丹,249,729,SDN,SD,2,Africa,Khartoum,SDG
+Suriname,苏里南,597,740,SUR,SR,19,Americas,Paramaribo,SRD
+Svalbard and Jan Mayen Islands,斯瓦尔巴群岛和扬马延岛,47,744,SJM,SJ,150,Europe,Longyearbyen,NOK
+Sweden,瑞典,46,752,SWE,SE,150,Europe,Stockholm,SEK
+Switzerland,瑞士,41,756,CHE,CH,150,Europe,Bern,CHF
+Syrian Arab Republic,阿拉伯叙利亚共和国,963,760,SYR,SY,142,Asia,Damascus,SYP
+Taiwan,台湾,886,158,TWN,TW,142,Asia,Taipei,TWD
+Tajikistan,塔吉克斯坦,992,762,TJK,TJ,142,Asia,Dushanbe,TJS
+Thailand,泰国,66,764,THA,TH,142,Asia,Bangkok,THB
+Timor-Leste,东帝汶,670,626,TLS,TL,142,Asia,Dili,USD
+Togo,多哥,228,768,TGO,TG,2,Africa,Lome,XOF
+Tokelau,托克劳,690,772,TKL,TK,9,Oceania,,NZD
+Tonga,汤加,676,776,TON,TO,9,Oceania,Nuku'alofa,TOP
+Trinidad and Tobago,特立尼达和多巴哥,1-868,780,TTO,TT,19,Americas,Port of Spain,TTD
+Tunisia,突尼斯,216,788,TUN,TN,2,Africa,Tunis,TND
+Turkey,土耳其,90,792,TUR,TR,142,Asia,Ankara,TRY
+Turkmenistan,土库曼斯坦,993,795,TKM,TM,142,Asia,Ashgabat,TMT
+Turks and Caicos Islands,特克斯和凯科斯群岛,1-649,796,TCA,TC,19,Americas,Cockburn Town,USD
+Tuvalu,图瓦卢,688,798,TUV,TV,9,Oceania,Funafuti,AUD
+Uganda,乌干达,256,800,UGA,UG,2,Africa,Kampala,UGX
+Ukraine,乌克兰,380,804,UKR,UA,150,Europe,Kyiv,UAH
+United Arab Emirates,阿拉伯联合酋长国,971,784,ARE,AE,142,Asia,Abu Dhabi,AED
+United Kingdom of Great Britain and Northern Ireland,大不列颠及北爱尔兰联合王国,44,826,GBR,GB,150,Europe,London,GBP
+United Republic of Tanzania,坦桑尼亚联合共和国,255,834,TZA,TZ,2,Africa,Dodoma,TZS
+United States Minor Outlying Islands,美国本土外小岛屿, ,581,UMI,UM,9,Oceania,,USD
+United States Virgin Islands,美属维尔京群岛,1-340,850,VIR,VI,19,Americas,Charlotte Amalie,USD
+United States of America,美利坚合众国,1,840,USA,US,19,Americas,Washington,USD
+Uruguay,乌拉圭,598,858,URY,UY,19,Americas,Montevideo,"UYU,UYW"
+Uzbekistan,乌兹别克斯坦,998,860,UZB,UZ,142,Asia,Tashkent,UZS
+Vanuatu,瓦努阿图,678,548,VUT,VU,9,Oceania,Port Vila,VUV
+Venezuela (Bolivarian Republic of),委内瑞拉玻利瓦尔共和国,58,862,VEN,VE,19,Americas,Caracas,"VES,VED"
+Viet Nam,越南,84,704,VNM,VN,142,Asia,Hanoi,VND
+Wallis and Futuna Islands,瓦利斯群岛和富图纳群岛,681,876,WLF,WF,9,Oceania,Mata Utu,XPF
+Western Sahara,西撒哈拉,212,732,ESH,EH,2,Africa,El-Aaiun,MAD
+Yemen,也门,967,887,YEM,YE,142,Asia,Sanaa,YER
+Zambia,赞比亚,260,894,ZMB,ZM,2,Africa,Lusaka,ZMW
+Zimbabwe,津巴布韦,263,716,ZWE,ZW,2,Africa,Harare,ZWG

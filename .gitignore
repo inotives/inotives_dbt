@@ -29,6 +29,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# dbt exclude folder such as target and compile code.
+target/
+
 # Airflow Excludes e.q. Logs
 logs/
 
